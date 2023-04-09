@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejinxx&show_icons=true)
 
 <!--
 **hyejinxx/hyejinxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
